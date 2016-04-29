@@ -42,8 +42,7 @@ There is a maximmum file size metric. If the output file of one of the runs is g
 Each read line which matches the correct output for each student, the student will get 1 point.
 
 The grader program is not forgiving. Please keep in mind that if the outputs seem to be correct but there are some unexpected lines in the output, the grader will not give score for these.
-
-------------------------
+##Some notes
 The grader will only compile 1 C file. you need to have gcc.exe in your system path environment. To learn this write gcc.exe in the command line. If you see something like "command not recognized as internal command" it means, it is not enabled. Please check internet for that.
-----------------------
+
 If the compile file need to read some file (from the same directory) then in that case the job is yours to put that file in each folder.
