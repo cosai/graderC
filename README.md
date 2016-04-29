@@ -16,16 +16,18 @@ change the config.txt as follows:
 
 Considering that the input files are 
 
-checkone.in, checkone2.in checkone3.in
+>checkone.in, checkone2.in checkone3.in
 
 and the output files for these inputs are
 
-checkone.out, checkone2.out checkone3.out
+>checkone.out, checkone2.out checkone3.out
 
 the config file will be 
 
 >inputfilename:checkone.in, checkone2.in checkone3.in
+
 >outputfilename:checkone.out, checkone2.out checkone3.out
+
 >checkfilename:checkone.out, checkone2.out checkone3.out
 
 after these steps run the somefile.bat (double click)
@@ -35,7 +37,7 @@ For call of somefile.bat, some runs may not stop. In that case you need to stop 
 Edit the somefile.bat and either remove that line that makes the execution not stop or bypass it by goto command.
 Continue running the remaining runs.
 
-the last part is for grading. At the end of the run you will see a text file called grades.txt. report.txt file will also be created.
+The last part is for grading. At the end of the run you will see a text file called grades.txt. report.txt file will also be created.
 
 grades.txt will give you enough information if a file is not compiled,empty or too big.
 There is a maximmum file size metric. If the output file of one of the runs is greater than 100 MB, the file will not be processed.
