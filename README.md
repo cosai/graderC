@@ -24,9 +24,9 @@ checkone.out, checkone2.out checkone3.out
 
 the config file will be 
 
-inputfilename:checkone.in, checkone2.in checkone3.in
-outputfilename:checkone.out, checkone2.out checkone3.out
-checkfilename:checkone.out, checkone2.out checkone3.out
+>inputfilename:checkone.in, checkone2.in checkone3.in
+>outputfilename:checkone.out, checkone2.out checkone3.out
+>checkfilename:checkone.out, checkone2.out checkone3.out
 
 after these steps run the somefile.bat (double click)
 
