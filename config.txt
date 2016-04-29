@@ -1,0 +1,3 @@
+inputfilename:addall.in
+outputfilename:addall.out
+checkfilename:addall.out
