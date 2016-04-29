@@ -7,7 +7,7 @@ Ph.D. Student at UCF
 Written for C programming course
 04/29/2016
 
-HOW TO RUN THIS?
+##HOW TO RUN THIS?
 
 put all the .c files in the same directory with grader.jar, config.txt and grader.bat
 put all the input and correct output files in the same directory with grader.jar, config.txt and grader.bat
