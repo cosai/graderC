@@ -49,3 +49,5 @@ The grader program is not forgiving. Please keep in mind that if the outputs see
 The grader will only compile 1 C file. you need to have gcc.exe in your system path environment. To learn this write gcc.exe in the command line. If you see something like "command not recognized as internal command" it means, it is not enabled. Please check internet for that.
 
 If the compile file need to read some file (from the same directory) then in that case the job is yours to put that file in each folder.
+
+You can search internet to make this in batch file or I may try to add a batch file here for that later.
